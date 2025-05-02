@@ -1,5 +1,5 @@
 *{
-   font-family: sans-serif;
+font-family: sans-serif;
    margin: 0;
    padding: 0;
 }
@@ -12,7 +12,7 @@
 } 
 .navbar img {
     height: 100%;
-   width: 100%;
+   width: 20%;
    cursor: pointer; 
    border: 5px solid #009688;
    border-radius: 50%;
