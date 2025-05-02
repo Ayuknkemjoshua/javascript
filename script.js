@@ -4,4 +4,5 @@
   let isname = confirm("have you verified?");
   alert(`ok ${result}; welcome to guitar accedemy`);
 
-  
+   
+   
